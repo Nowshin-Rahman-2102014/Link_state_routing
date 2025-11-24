@@ -19,8 +19,8 @@ This project requires **Python 3.x**. It relies on standard Python libraries (`t
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/link-state-routing-sim.git](https://github.com/yourusername/link-state-routing-sim.git)
-   cd link-state-routing-sim
+   git clone [https://github.com/Nowshin-Rahman-2102014/Link_state_routing](https://github.com/Nowshin-Rahman-2102014/Link_state_routing)
+   cd Link_state_routing
 ````
 
 2.  **Verify Python Installation**
@@ -33,7 +33,7 @@ This project requires **Python 3.x**. It relies on standard Python libraries (`t
 3.  **Run the Application**
 
     ```bash
-    python main.py
+    python Link_State_Routing.py
     ```
 
     *(Note: If your script is named something else, replace `main.py` with your filename).*
@@ -88,14 +88,14 @@ Contributions are welcome to improve the visualization or add new algorithms (li
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 ## Contact
 
 **Sadia Homayra Nowshin** Student ID: 2102014  
 Course: CCE-314 (Computer Networks)
 
-Project Link: [https://github.com/yourusername/link-state-routing-sim](https://www.google.com/search?q=https://github.com/yourusername/link-state-routing-sim)
+Project Link: [https://github.com/Nowshin-Rahman-2102014/Link_state_routing](https://github.com/Nowshin-Rahman-2102014/Link_state_routing)
 
 ```
+
 ```
